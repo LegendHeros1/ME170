@@ -1,0 +1,4 @@
+ERROR - Active Drawing, linenum 19: Invalid value 'HIDDEN' for keyword 'MODEL_DISPLAY_FOR_NEW_VIEWS'.
+ERROR - Active Drawing, linenum 112:  Keyword 'ASME_DTM_ON_DIA_DIM_GTOL' is not valid.
+ERROR - Active Drawing, linenum 113:  Keyword 'GTOL_DATUM_PLACEMENT_DEFAULT' is not valid.
+ERROR - Active Drawing, linenum 116:  Keyword 'GTOL_DISPLAY_STYLE' is not valid.

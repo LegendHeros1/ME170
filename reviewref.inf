@@ -1,0 +1,49 @@
+﻿|***************************|
+    REFERENCE INFORMATION    
+|***************************|
+ Reference No.1 out of 1 
+
+Reference:
+   TYPE   : cylinder
+
+Status   : in geometry
+
+
+Reference owner:
+ Model   :
+   NAME   : ROD 
+   TYPE   : Part
+ Feature :
+
+    FEATURE NUMBER       6
+    INTERNAL FEATURE ID  46
+    PARENTS = 40(#5) 
+    CHILDREN = 67(#7) 73(#8) 99(#9) 114(#10) 177(#12) 190(#13) 261(#14) 
+
+
+ PROTRUSION: Extrude
+
+  NO.     ELEMENT NAME       INFO                                               
+  ---     -------------      -------------                                      
+   1      Feature Name       Defined                                            
+   2      Extrude Feat type  Solid                                              
+   3      Material           Add                                                
+   4      Section            Defined                                            
+   4.1    Reference Sketch   F5(SKETCH_1)                                       
+   5      Feature Form       Solid                                              
+   6      Direction          Side 2                                             
+   7      Depth              Defined                                            
+   7.1    Side One           Defined                                            
+   7.1.1  Side One Depth     None                                               
+   7.2    Side Two           Defined                                            
+   7.2.1  Side Two Depth     Symmetric                                          
+   7.2.2  Value              25.40                                              
+
+    SECTION NAME = Sketch 1 
+
+    FEATURE IS IN LAYER(S) :
+      02___PRT_ALL_AXES - OPERATION = SHOWN
+
+    FEATURE'S DIMENSIONS:
+    d1 = (Displayed:) 25.4
+         (   Stored:) 25.4 ( 0.01, -0.01 ) 
